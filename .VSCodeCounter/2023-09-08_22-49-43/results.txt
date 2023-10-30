@@ -1,0 +1,81 @@
+Date : 2023-09-08 22:49:43
+Directory : /home/estynia/Desktop/javaprojects/Jinczinka
+Total : 43 files,  4956 codes, 486 comments, 1137 blanks, all 6579 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         39 |      4,548 |        486 |      1,129 |      6,163 |
+| JSON     |          4 |        408 |          0 |          8 |        416 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                  |         43 |      4,956 |        486 |      1,137 |      6,579 |
+| Main                                                                               |         12 |      1,464 |        185 |        407 |      2,056 |
+| audio                                                                              |          2 |        100 |          0 |         28 |        128 |
+| entity                                                                             |         14 |        643 |         28 |        240 |        911 |
+| entity (Files)                                                                     |          3 |        426 |         27 |        127 |        580 |
+| entity/mobs                                                                        |          3 |         46 |          0 |         22 |         68 |
+| entity/npcs                                                                        |          8 |        171 |          1 |         91 |        263 |
+| lib                                                                                |          1 |      2,021 |        239 |        351 |      2,611 |
+| object                                                                             |          7 |        126 |         12 |         47 |        185 |
+| r                                                                                  |          4 |        408 |          0 |          8 |        416 |
+| r/resources                                                                        |          4 |        408 |          0 |          8 |        416 |
+| r/resources/bibliothek                                                             |          2 |          8 |          0 |          2 |         10 |
+| r/resources/dialogue                                                               |          2 |        400 |          0 |          6 |        406 |
+| tile                                                                               |          3 |        194 |         22 |         56 |        272 |
++------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                           | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/Animation.java                   | Java     |        110 |          2 |         28 |        140 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/AnimationManager.java            | Java     |         21 |          6 |          6 |         33 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/AssetSetter.java                 | Java     |        279 |          0 |        103 |        382 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/CollisionChecker.java            | Java     |          0 |         89 |          4 |         93 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/EventHandler.java                | Java     |         53 |          2 |         14 |         69 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/GameTimer.java                   | Java     |         94 |          1 |         19 |        114 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/GenerateSoul.java                | Java     |          3 |          0 |          3 |          6 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/KeyHandler.java                  | Java     |        227 |          3 |         24 |        254 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/Main.java                        | Java     |         32 |          1 |         14 |         47 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/UI.java                          | Java     |        390 |         52 |        124 |        566 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/UtilityTool.java                 | Java     |         12 |          0 |          5 |         17 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/Main/gamePanel.java                   | Java     |        243 |         29 |         63 |        335 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/audio/Music.java                      | Java     |         56 |          0 |         17 |         73 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/audio/Sound.java                      | Java     |         44 |          0 |         11 |         55 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/Entity.java                    | Java     |        303 |         18 |         89 |        410 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/Player.java                    | Java     |        120 |          9 |         35 |        164 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/Sprite.java                    | Java     |          3 |          0 |          3 |          6 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/mobs/MOB_Peedleback_Shark.java | Java     |         16 |          0 |          8 |         24 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/mobs/MOB_Squid.java            | Java     |         15 |          0 |          7 |         22 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/mobs/MOB_Squid_Nightly.java    | Java     |         15 |          0 |          7 |         22 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/npcs/NPC_Flan.java             | Java     |         33 |          1 |         16 |         50 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/npcs/NPC_Gamu.java             | Java     |         16 |          0 |         13 |         29 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/npcs/NPC_Pearl_Swindler.java   | Java     |         15 |          0 |         10 |         25 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/npcs/NPC_Pearl_Swindlers.java  | Java     |         15 |          0 |         10 |         25 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/npcs/NPC_Salkah.java           | Java     |         35 |          0 |         17 |         52 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/npcs/NPC_Saltenne1.java        | Java     |         19 |          0 |          9 |         28 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/npcs/NPC_Saltenne2.java        | Java     |         19 |          0 |          8 |         27 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/entity/npcs/NPC_Saltenne3.java        | Java     |         19 |          0 |          8 |         27 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/lib/FastNoiseLite.java                | Java     |      2,021 |        239 |        351 |      2,611 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/object/OBJ_Kelp1.java                 | Java     |         13 |          0 |          5 |         18 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/object/OBJ_Kelp2.java                 | Java     |         13 |          0 |          5 |         18 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/object/OBJ_Kelp3.java                 | Java     |         13 |          0 |          5 |         18 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/object/OBJ_Shell1.java                | Java     |         13 |          0 |          5 |         18 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/object/OBJ_Shell2.java                | Java     |         13 |          0 |          5 |         18 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/object/OBJ_Whale_Corpse.java          | Java     |         15 |          0 |          5 |         20 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/object/SuperObject.java               | Java     |         46 |         12 |         17 |         75 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/r/resources/bibliothek/book.json      | JSON     |          4 |          0 |          1 |          5 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/r/resources/bibliothek/poem.json      | JSON     |          4 |          0 |          1 |          5 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/r/resources/dialogue/NPC_Salkah.json  | JSON     |        400 |          0 |          5 |        405 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/r/resources/dialogue/default.json     | JSON     |          0 |          0 |          1 |          1 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/tile/MapGenerator.java                | Java     |         58 |          7 |         16 |         81 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/tile/Tile.java                        | Java     |          6 |          0 |          3 |          9 |
+| /home/estynia/Desktop/javaprojects/Jinczinka/tile/TileManager.java                 | Java     |        130 |         15 |         37 |        182 |
+| Total                                                                              |          |      4,956 |        486 |      1,137 |      6,579 |
++------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
